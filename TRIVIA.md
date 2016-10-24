@@ -56,6 +56,9 @@ Here is a list of 3rd party directories:
 * http://typewonder.com
 * http://www.localfont.com
 * http://open-foundry.com
+* https://typeresources.github.io/glyph-gazer/
+* http://cdn.canelodigital.cl/fonts/
+* http://code.thisarmy.com/fontsinfo/
 
 There are also handcrafted directories with rich samples:
 
@@ -64,6 +67,8 @@ There are also handcrafted directories with rich samples:
 * http://100daysoffonts.com
 * http://jxnblk.com/type-a/
 * https://jonsuh.com/100-days-of-scriptures/
+* http://codepen.io/nxworld/pen/XKRaRm
+* https://twitter.com/FontSnek
 
 ## Rightsholder contacts
 
@@ -76,3 +81,13 @@ This shell command shows all the families without a contact email address:
     grep copyright\: */*/MET* | grep -v \@ | cut -d\: -f1 | cut -d\/ -f2 | uniq | sort
 
 The copyright holders of those families are mostly Google, SIL, Adobe, Canonical, Naver, and a couple of outliers. 
+
+## Articles about Google Fonts
+
+Some interesting articles about Google Fonts:
+
+* <http://googlecode.blogspot.com/2010/05/introducing-google-font-api-google-font.html>
+* <http://googlewebfonts.blogspot.com>
+* <https://design.google.com/articles/reimagining-google-fonts/>
+* <https://medium.com/google-design/introducing-space-mono-a-new-monospaced-typeface-by-colophon-foundry-for-google-fonts-84367eac6dfb>
+* <http://www.fastcodesign.com/3033126/roboto-rebooted-why-google-plans-to-update-its-font-like-the-rest-of-its-products>
